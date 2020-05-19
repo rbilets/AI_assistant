@@ -1,0 +1,6 @@
+smtplib
+gtts
+pygame
+newsapi
+smtplib
+speech_recognition
