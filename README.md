@@ -1,5 +1,6 @@
 # AI Assistant
-
+![Image of Yaktocat]
+(https://cdn.prdaily.com/wp-content/uploads/2019/01/Artificial_Intelligence_Assistant.jpg)
 Python-written software agent that can perform tasks or services for an individual based on 
 verbal commands i.e. by interpreting human speech and respond via synthesized voices.
 
